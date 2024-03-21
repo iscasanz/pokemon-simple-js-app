@@ -1,1 +1,6 @@
-pokemons = [{name: "squirtle", type:["water", "grass"]},{name: "evvee", type:["water", "speed"]}, {name: "jigglypuff", type:["fairy", "poison"]}]
+[{name: "squirtle", type:["water", "grass"]},
+
+{name: "evvee", type:["water", "speed"]},
+
+{name: "jigglypuff", type:["fairy", "poison"]}
+];
