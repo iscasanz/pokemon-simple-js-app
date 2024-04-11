@@ -1,2 +1,0 @@
-# pokemon-simple-js-app
- 
